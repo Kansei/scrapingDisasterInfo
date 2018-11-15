@@ -1,7 +1,7 @@
 # scrapingDisasterInfo
 
 ## 災害情報
-### 発生した災害(地震、噴火、津波)の情報をそれぞれ、Disasterを継承したEarthquake, Volcano, Tsunamiクラスのオブジェクに格納する。
+### 発生した災害(地震、噴火、津波)の情報をそれぞれ、Disasterを継承したEarthquake, Volcano, Tsunamiクラスのオブジェクトに格納する。
  Disaster
   - title
   - link
@@ -22,7 +22,7 @@
   - magnitude
   
  ## 地域の被害情報
- ### 発生した災害(地震、噴火、津波)で被災した地域の被害情報をそれぞれ、DisasterAreaを継承したEarthquakeArea, VolcanoArea, TsunamiAreaクラスのオブジェクに格納する。
+ ### 発生した災害(地震、噴火、津波)で被災した地域の被害情報をそれぞれ、DisasterAreaを継承したEarthquakeArea, VolcanoArea, TsunamiAreaクラスのオブジェクトに格納する。
  
  DisasterArea
  - place
